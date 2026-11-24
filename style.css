@@ -10,3 +10,4 @@ p,li{color:var(--fg)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 24px;margin:28px 0}
 a{color:var(--accent)}
 footer{margin-top:48px;font-size:.9rem;color:var(--muted)}
+.yt p{margin:.4em 0}.ytmark{display:inline-block;vertical-align:-4px;margin-right:4px}
